@@ -1,5 +1,6 @@
 ---
-title: Welcome to my blog
+title: Sean's Blog
 ---
 
-This is my page _this is in italics_
+This is my page.
+_this is in italics_
